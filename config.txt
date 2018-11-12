@@ -1,0 +1,5 @@
+# 左クリック長押しで連続左クリックするインターバル
+INTERVAL_SECONDS_LEFT_CLICK=0.5
+
+# 右クリックで左クリックするデフォルトの座標(x,y)
+DEFAULT_MOVE_AND_LEFT_CLICK=300,300
